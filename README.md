@@ -5,6 +5,8 @@ Reto Técnico para Analista de Frontend
 El objetivo de este reto técnico es automatizar un conjunto de flujos en el sitio web SauceDemo utilizando una serie de tecnologías y patrones de automatización.
 Tecnologías Utilizadas
 
+    IntelliJIDEA
+
     Java 17: Se utilizó Java como lenguaje de programación para desarrollar las pruebas de automatización.
 
     Selenium WebDriver: Se empleó Selenium WebDriver para la automatización de las interacciones con el sitio web SauceDemo.

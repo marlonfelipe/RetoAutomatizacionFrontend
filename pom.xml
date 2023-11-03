@@ -15,8 +15,9 @@
         <serenity-version>3.9.0</serenity-version>
         <junit-version>4.13.2</junit-version>
         <maven-plugins-version>3.1.2</maven-plugins-version>
-        <slef4j-version>2.0.7</slef4j-version>
+        <slf4j-version>2.0.7</slf4j-version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>net.serenity-bdd</groupId>
@@ -47,7 +48,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
-            <version>${slef4j-version}</version>
+            <version>${slf4j-version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
